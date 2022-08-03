@@ -1,2 +1,2 @@
 # Certificates
-Repository with all my Certificates 
+Repository with all the Certificates I got during my development journey!
